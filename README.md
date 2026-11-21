@@ -1,7 +1,6 @@
 # Game API
 
-Final Project Study Club Backend Basic (VeteranTech)
-Dibuat oleh Ahyan Nubaid
+Final Project Study Club Backend Basic (VeteranTech), dibuat oleh Ahyan Nubaid.
 
 REST API sederhana untuk mengelola daftar game, memakai Node.js, Express, dan MongoDB Atlas.
 
